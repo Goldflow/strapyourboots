@@ -1,0 +1,31 @@
+{
+  "name": "strapyourboots",
+  "version": "1.0.0",
+  "description": "experimenting with bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goldflow/strapyourboots.git"
+  },
+  "keywords": [
+    "Karim",
+    "bootstrap"
+  ],
+  "author": "Karim Dehbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goldflow/strapyourboots/issues"
+  },
+  "homepage": "https://github.com/Goldflow/strapyourboots#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
+}
